@@ -8,7 +8,7 @@ Tools ini harus memiliki ijin ke penyimpanan internal untuk mendownload keperlua
   $ pkg update
   $ pkg upgrade
   $ pkg install git
-  $ git clone https://github.com/Hacker-Gasns/DDoS
+  $ git clone https://github.com/Hacker-Gans/DDoS
   $ cd DDoS
   $ bash ddos.sh
 ```
