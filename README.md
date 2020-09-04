@@ -22,6 +22,6 @@ Tools ini harus memiliki ijin ke penyimpanan internal untuk mendownload keperlua
 ```
 
 # Terimakasih Kepada
-1 Tuhan Yang Maha Esa
-2 Semua yang ikut serta membuat tools ini
-3 Seluruh Hacker Indonesia
+1. Tuhan Yang Maha Esa
+2. Semua yang ikut serta membuat tools ini
+3. Seluruh Hacker Indonesia
